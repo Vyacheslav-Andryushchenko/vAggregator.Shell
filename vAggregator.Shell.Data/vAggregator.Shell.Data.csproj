@@ -8,8 +8,4 @@
     <ProjectReference Include="..\vAggregator.Shell.Common\vAggregator.Shell.Common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Creators\" />
-  </ItemGroup>
-
 </Project>
