@@ -4,3 +4,5 @@
 /.vs
 /vAggregator.Shell.Common/obj
 /vAggregator.Shell.Common/bin
+/vAggregator.Shell.Data/bin
+/vAggregator.Shell.Data/obj
